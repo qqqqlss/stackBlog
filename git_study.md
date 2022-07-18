@@ -14,3 +14,8 @@
   7. add 및 commit 시켜주기.
   8. 올리기 (명령어 - git flow feature publish)
   9. pull request에서 확인
+
+#commit
+conventional commit- commit message에 가벼운 규칙을 구성하여 명시 커밋 기록을 만듬(자동화 도구 쉽게 활용 가능, merge시에도 commit내용을 합치기 쉽게 해줌.)
+  이 규칙은 커밋 메시지의 기능, 수정 사항 및 주요 변경 사항을 설명
+  source tree를 이용해 더 쉽게 활용 가능하다.
