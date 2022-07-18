@@ -7,14 +7,11 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**정의(문제가 무엇인지 명확하게 설명)**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**목적(하고자 하는 일에 대한 명확/간결 설명)**
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**고려한 대안(솔루션 또는 기능에 대한 명확/간결 설명)**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**추가 부연 설명**
+
