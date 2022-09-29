@@ -14,4 +14,6 @@
   7. add 및 commit 시켜주기.
   8. 올리기 (명령어 - git flow feature publish)
   9. pull request에서 확인
+  10. rebase merge 시켜주기!
+  11. local에서 issue branch 삭제( git branch -d branch-name )
 * 1 에서 오류 날시( git branch 새로 만들어 주어 checkout 해 입력해 주거나, 목록에 잇는거 적어야 댐)
