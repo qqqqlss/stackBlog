@@ -17,6 +17,7 @@
   10. rebase merge 시켜주기!
   11. local에서 issue branch 삭제( git branch -d branch-name )
 * 1 에서 오류 날시( git branch 새로 만들어 주어 checkout 해 입력해 주거나, 목록에 잇는거 적어야 댐)
+* 다른 컴퓨터에서 작업 시 기존 컴퓨터에서 8 후 그 브랜치로 checkout 후 작업
 
 
 [https://uroa.tistory.com/106](https://velog.io/@u-nij/Git-Flow-Commit-message-Issue-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
